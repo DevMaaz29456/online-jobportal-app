@@ -1,0 +1,48 @@
+export default [
+  {
+    id: 1,
+    postedOn: "2024-9-6",
+    title: "ioS Developer",
+    company: "Apple",
+    type: "Full Time",
+    experience: "Mid Level",
+    location: "Remote",
+    skills: ["SwiftUI", "Uikit", "CoreData", "Kotlin", "Java"],
+    job_Link: "https://www.apple.com/careers/us/",
+  },
+  {
+    id: 2,
+    postedOn: "2024-9-2",
+    title: "Backend Engineer",
+    company: "Amazon",
+    type: "Part Time",
+    experience: "Senior Level",
+    location: "Remote",
+    skills: ["Express js", "Node js", "Django", "Javascript", "Python"],
+    job_Link:
+      "https://www.amazon.jobs/content/en/job-categories/software-development",
+  },
+  {
+    id: 3,
+    postedOn: "2024-9-5",
+    title: "Android Developer",
+    company: "Facebook",
+    type: "Part Time",
+    experience: "Senior Level",
+    location: "Remote",
+    skills: ["XML", "Android Studio", "Firebase", "SQLlite", "Gradle"],
+    job_Link: "https://www.metacareers.com/jobs/2153849481475062/",
+  },
+  {
+    id: 4,
+    postedOn: "2024-9-1",
+    title: "ML Engineer",
+    company: "Facebook",
+    type: "Part Time",
+    experience: "Senior Level",
+    location: "Remote",
+    skills: ["Pyhton", "Pandas", "NLP", "Seaborn", "Deep Learning"],
+    job_Link:
+      "https://www.metacareers.com/areas-of-work/artificial-intelligence/?p[teams][0]=Artificial%20Intelligence&teams[0]=Artificial%20Intelligence",
+  },
+];
